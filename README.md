@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **laravel react adobe xd**
 
-- 👨‍💻 All of my projects are available at [https://sandiprayogo.github.io/.](https://sandiprayogo.github.io/.)
+- 👨‍💻 All of my projects are available at [https://sandiprayogo.github.io/sandiprayogo.](https://sandiprayogo.github.io/sandiprayogo.)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
